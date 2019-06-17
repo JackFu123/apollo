@@ -4,9 +4,10 @@
 
 
 
-<a href="http://180.76.142.62:8111/viewType.html?buildTypeId=ApolloPublic_Build">
+<a href="http://180.76.142.62:8111/viewType.html?buildTypeId=ApolloPublic_Build&guest=1 ">
 <img src="http://180.76.142.62:8111/app/rest/builds/buildType:(id:ApolloPublic_Build)/statusIcon"/>
 </a>
+
 
 ```
 
